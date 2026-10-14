@@ -1,1 +1,2 @@
-ilk olusturulan dosya
+ilk oluşturulan dosya.
+burası server taratfında etitlendi.
